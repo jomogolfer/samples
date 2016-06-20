@@ -1,0 +1,462 @@
+/* 
+ * The following CSS is for the President's Club page
+ */
+.page-id-3521 .menu-primary {
+	height: 1px;
+}
+
+.page-id-3521 .entry-title {
+	display: none;
+}
+
+.page-id-3521 #inner #top_wrapper {
+	width: 100%;
+	overflow: hidden;
+	height: 340px;
+	margin-bottom: 20px;
+}
+
+.page-id-3521 #inner #top_wrapper_left {
+	width: 300px;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 50px;
+    margin-right: 20px;
+    z-index: 99;
+ }
+
+ .page-id-3521 #inner #top_wrapper_left img {
+ 	margin: 30px 30px 30px 0px;
+ 	height: 90%;
+ 	width: 90%;
+ }
+
+.page-id-3521 #inner #top_wrapper_right {
+	position: relative;
+	margin-top: 15px;
+	left: 30em;
+	width: 550px;
+}
+
+.page-id-3521 #inner #top_wrapper_right h2 {
+	color: #000;
+	border-bottom: solid 2px #9D8839;
+	font-size: 38px;
+}
+
+.page-id-3521 #inner #top_wrapper_right p.about {
+	font-size: 125%;
+}
+
+.page-id-3521 #inner #top_wrapper_right p {
+	width: 520px;
+	margin-top: -1px;
+	font-size: 110%;
+}
+.page-id-3521 p a {
+	transition: all 0.25s linear;
+}
+
+.page-id-3521 #content {
+  position: relative;
+  margin-left: auto;
+  margin-right: 20px;
+  margin-bottom: -360px;
+  background-image: url(/wp-content/uploads/2016/05/PresidentsClub-bg.jpg);
+  background-repeat: no-repeat;
+  float: left;
+  padding: 0;
+  width: 100%;
+  height: 900px;
+}
+
+.page-id-3521 .marker {
+	cursor: pointer;
+}
+.page-id-3521 .president-member {
+  border-radius: 5px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.33);
+}
+
+.page-id-3521 .president-member-bellevue {
+  border-radius: 5px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.33);
+}
+
+/*Bellevue*/
+.page-id-3521 #content .marker1 {
+  position: absolute;
+  top: 85px;
+  left: 135px;
+  height: 38px;
+  width: 28px;
+}
+.marker1 .president-wrapper {
+  left: 50px;
+  top: 275px;
+}
+
+/* Bend */
+.page-id-3521 #content .marker2 {
+	position: absolute;
+	top: 270px;
+	left: 180px;
+	height: 38px;
+	width: 28px;
+}
+
+.page-id-3521 #content .marker3 {
+	position: absolute;
+	top: 280px;
+	left: 310px;
+	height: 38px;
+	width: 28px;
+}
+
+.page-id-3521 #content .marker4 {
+	position: absolute;
+	top: 435px;
+	left: 110px;
+	height: 38px;
+	width: 28px;
+}
+
+.page-id-3521 #content .marker5 {
+	position: absolute;
+	top: 530px;
+	left: 130px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Torrance */
+.page-id-3521 #content .marker6 {
+	position: absolute;
+	top: 670px;
+	left: 150px;
+	height: 38px;
+	width: 28px;
+}
+
+.page-id-3521 #content .marker7 {
+	position: absolute;
+	top: 720px;
+	left: 260px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Southwest Vegas */
+.page-id-3521 #content .marker8 {
+	position: absolute;
+	top: 600px;
+	left: 300px;
+	height: 38px;
+	width: 28px;
+}
+
+.page-id-3521 #content .marker9 {
+	position: absolute;
+	top: 480px;
+	left: 460px;
+	height: 38px;
+	width: 28px;
+}
+
+.page-id-3521 #content .marker10 {
+  	position: absolute;
+	top: 690px;
+	left: 440px;
+	height: 38px;
+	width: 28px;
+}
+
+/*Enumclaw*/
+.page-id-3521 #content .marker11 {
+	position: absolute;
+	top: 105px;
+	left: 160px;
+	height: 38px;
+	width: 28px;
+}
+
+/*Gig Harbor*/
+.page-id-3521 #content .marker12 {
+	position: absolute;
+	top: 80px;
+	left: 120px;
+	height: 38px;
+	width: 28px;
+}
+
+/*Marysville*/
+.page-id-3521 #content .marker13 {
+	position: absolute;
+	top: 60px;
+	left: 130px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Medford */
+.page-id-3521 #content .marker14 {
+	position: absolute;
+	top: 320px;
+	left: 100px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Moses Lake */
+.page-id-3521 #content .marker15 {
+	position: absolute;
+	top: 140px;
+	left: 230px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Northgate */
+.page-id-3521 #content .marker16 {
+	position: absolute;
+	top: 50px;
+	left: 110px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Omak */
+.page-id-3521 #content .marker17 {
+	position: absolute;
+	top: 80px;
+	left: 200px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Prineville */
+.page-id-3521 #content .marker18 {
+	position: absolute;
+	top: 240px;
+	left: 160px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Proctor */
+.page-id-3521 #content .marker19 {
+	position: absolute;
+	top: 90px;
+	left: 120px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Seattle */
+.page-id-3521 #content .marker20 {
+	position: absolute;
+	top: 90px;
+	left: 135px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Vancouver */
+.page-id-3521 #content .marker21 {
+	position: absolute;
+	top: 170px;
+	left: 105px;
+	height: 38px;
+	width: 28px;
+}
+
+/* Wenatchee */
+.page-id-3521 #content .marker22 {
+	position: absolute;
+	top: 135px;
+	left: 190px;
+	height: 38px;
+	width: 28px;
+}
+
+.page-id-3521 #content .marker .president-wrapper {
+	overflow: visible;
+	position: relative;	
+	display: none;
+	z-index: 100;
+}
+
+.page-id-3521 #content .marker .president-wrapper-bellevue {
+	overflow: visible;
+	position: relative;	
+	display: none;
+	z-index: 100;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue {
+  background-color: #ffffff;
+  bottom: -86px;
+  left: -5%;
+  max-height: 500px;
+  position: absolute;
+  width: 480px;
+  z-index: 1;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue .left-column {
+	float: left; 
+	max-width: 180px;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue .middle-column {
+	display: inline-block; 
+	margin-right: 10px; 
+	vertical-align: middle; 
+	max-width: 170px;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue p {
+	margin-left: 15px;
+	margin-bottom: 5px;
+	font-size: 110%;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue p a {
+	color: #000;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue p a:hover {
+	color: #96BAB1;
+	text-decoration: none;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue p.city-name {
+	margin: 10px 0 5px 15px;
+	font-weight: bold;
+	font-size: 110%;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue .president-image {
+	float: right;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member-bellevue .president-image img {
+	max-height: 150px;
+	max-width: 131px;
+	position: relative;
+}
+
+/*.page-id-3521 #content .marker .president-wrapper .president-member-bellevue .close {
+	max-height: 25px;
+	max-width: 25px;
+	background-color: #fff;
+	position: absolute;
+	top: 0;
+	right: 0;
+}*/
+
+.page-id-3521 #content .marker .president-wrapper .marker .close {
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  height: 25px;
+  padding: 2px;
+  position: absolute;
+  right: -12px;
+  text-align: center;
+  text-transform: uppercase;
+  top: -12px;
+  width: 25px;
+}
+
+
+.page-id-3521 #content .marker .president-wrapper .president-member {
+  background-color: #ffffff;
+  bottom: -86px;
+  left: 35px;
+  position: absolute;
+  width: 334px;
+  z-index: 1;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member p {
+	margin-left: 15px;
+	margin-bottom: 5px;
+	font-size: 110%;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member p a {
+	color: #000;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member p a:hover {
+	color: #96BAB1;
+	text-decoration: none;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member p.city-name {
+	margin: 10px 0 5px 15px;
+	font-weight: bold;
+	font-size: 110%;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member .president-image {
+	float: right;
+}
+
+.page-id-3521 #content .marker .president-wrapper .president-member .president-image img {
+	display: block;
+	height: 150px;
+}
+
+.page-id-3521 #first_textbox {
+  display: block;
+  margin: 75px 10px 60px 580px;
+  overflow: auto;
+  padding: 10px;
+  position: absolute;
+  width: 340px;
+}
+
+.page-id-3521 #first_textbox p {
+	margin-bottom: 10px;
+	font-size: 120%;
+}
+
+.page-id-3521 #second_textbox {
+  background-color: rgba(42, 121, 92, 0.9);
+  display: block;
+  margin: 350px 16px 28px 560px;
+  overflow: auto;
+  padding: 35px 30px;
+  position: absolute;
+  width: 345px;
+}
+
+.page-id-3521 #second_textbox p  {
+	margin-bottom: 10px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 162%;
+	font-style: italic;
+}
+
+.page-id-3521 #second_textbox p.name  {
+	margin-bottom: 10px;
+	font-size: 95%;
+	color: #fff;
+	font-weight: normal;
+	display: inline;
+}
+
+#instructions > p {
+  background: rgba(247, 195, 90, 0.85) none repeat scroll 0 0;
+  color: #fff;
+  font-weight: bold;
+  left: 75px;
+  padding: 10px;
+  position: absolute;
+  top: 725px;
+  width: 203px;
+}

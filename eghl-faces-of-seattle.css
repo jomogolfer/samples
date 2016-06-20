@@ -1,0 +1,163 @@
+/* 
+ * The following CSS is for the Faces of Seattle page
+ * URL: https://www.evergreenhomeloans.com/about-us/publications/
+ */
+.page-id-1917 .menu-primary,
+.page-id-1929 .menu-primary {
+	height: 1px;
+}
+
+.page-id-1917 .entry-title,
+.page-id-1929 .entry-title {
+	display: none;
+}
+
+.page-id-1917 #inner #top_wrapper,
+.page-id-1929 #inner #top_wrapper {
+	width: 100%;
+	overflow: hidden;
+	height: 168px;
+}
+
+.page-id-1917 #inner #top_wrapper_left,
+.page-id-1929 #inner #top_wrapper_left {
+	width: 300px;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 60px;
+    margin-right: 20px;
+    z-index: 99;
+
+}
+
+.page-id-1917 #inner #top_wrapper_right,
+.page-id-1929 #inner #top_wrapper_right {
+	position: relative;
+	margin-top: 20px;
+	left: 20em;
+	width: 600px;
+}
+
+.page-id-1917 #inner #top_wrapper_right p,
+.page-id-1929 #inner #top_wrapper_right p {
+	font-size: 130%;
+	width: 680px;
+}
+
+
+.page-id-1917 #content,
+.page-id-1929 #content {
+	margin-left: -20px;
+    margin-right: auto;
+    width: 100%; 
+    height: 800px;
+    background-image:url(/wp-content/uploads/2016/03/don_burton_seattle_2016.png);
+	background-repeat:no-repeat;
+	z-index: 1;
+}
+
+
+.page-id-1917 #content img,
+.page-id-1929 #content img {
+	z-index: 99;
+	position: absolute;
+	margin: 156px 0 0 816px;
+}
+
+.page-id-1917 #textbox,
+.page-id-1929 #textbox {
+	width: 540px;
+	float: right;
+	padding: 10px 10px 10px 10px;
+	margin: 250px 16px 28px 20px;
+	background-color: rgba(0,0,0,.7);
+	display:block;
+	overflow:auto;
+	z-index: 1;
+}
+
+
+.page-id-1917 #textbox h1,
+.page-id-1929 #textbox h1 {
+	color: #fff200;
+	border-bottom: solid 2px #fff200;
+	margin-bottom: 0;
+	font-size: 180%;
+
+}
+
+.page-id-1917 #textbox h3,
+.page-id-1929 #textbox h3 {
+	color: #fff200;
+	margin-bottom: -5px;
+	font-size: 120%;
+}
+
+
+.page-id-1917 #textbox p,
+.page-id-1929 #textbox p
+ {
+	font-size: 80%;
+	color: #fff;
+	margin-bottom: 8px;
+	padding-right: 14px;
+}
+
+
+.page-id-1917 #inner #bottom_wrapper,
+.page-id-1929 #inner #bottom_wrapper,
+#inner #bottom_wrapper {
+	width: 100%;
+	height: 350px;
+	overflow: hidden;
+}
+
+.page-id-1917 #inner #bottom_wrapper_left,
+.page-id-1929 #inner #bottom_wrapper_left,
+#inner #bottom_wrapper_left {
+	width: 480px;
+	margin: 70px 10px 10px 50px;
+	vertical-align: middle;
+	position: absolute;
+}
+
+.page-id-1917 #inner #bottom_wrapper_right,
+.page-id-1929 #inner #bottom_wrapper_right,
+#inner #bottom_wrapper_right {
+	position: relative;
+	margin-right: 60px;
+	left: 42em;
+}
+
+/* Don't display title of form */
+.page-id-1917 .gform_wrapper h3.gform_title,
+.page-id-1929 .gform_wrapper h3.gform_title {
+    display: none;
+ }
+
+.page-id-1917 input[type="button"], input[type="submit"],
+.page-id-1929 input[type="button"] {
+    background: url("/wp-content/uploads/2013/04/send.png") no-repeat scroll 0 0 #006743;
+    border: medium none;
+    cursor: pointer;
+    display: block;
+    margin: 20px 0 0 0;
+    float: left;
+    height: 34px;
+    text-indent: -9999px;
+    width: 80px;
+}
+
+.page-id-1917 .gform_wrapper .top_label input.medium,
+.page-id-1929 .gform_wrapper .top_label input.medium {
+    padding-right: 2px;
+    width: 300px;
+}
+
+/*Remove footer links*/
+.page-id-1917 .footer-links,
+.page-id-1929 .footer-links,
+.page-id-1433 .footer-links {
+	display:none; 
+
+}
