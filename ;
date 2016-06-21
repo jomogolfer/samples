@@ -1,0 +1,12 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	renamed:    eghl-faces-of-seattle.css -> about-us-publications.css
+#	renamed:    eghl-faces-of-seattle.php -> about-us-publications.php
+#	modified:   additional-insights.php
+#	modified:   single-consultant.php
+#
