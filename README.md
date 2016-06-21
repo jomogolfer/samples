@@ -15,7 +15,7 @@ https://www.evergreenhomeloans.com/about-us/publications/
   
 https://www.evergreenhomeloans.com/puyallup-two/?consultant=meet-dorman-team
 
-  single-consultant.php contains code that helps to build a "team page" for a loan officer page.
+  single-consultant.php contains code (PHP, jQuery, and CSS) that helps to build a "team page" for a loan officer page.
   
 
 http://smartsearchmarketing.com/solutions/b2b-digital-marketing/lead-generation  
