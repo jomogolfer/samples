@@ -1,7 +1,6 @@
 <?php
 /*
- * The code below helps to create the Additional Insights on the sidebar
- * of SmartSearch Marketing.   	
+ * The code below helps to create the Additional Insights (recent blog      * posts) on the sidebar of SmartSearch Marketing.   	
  * URL: http://smartsearchmarketing.com/solutions/b2b-digital-marketing/lead-generation
 */
 function my_p2p_template_handling( $html, $connected, $ctype, $mode ) {
